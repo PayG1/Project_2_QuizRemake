@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Eczar&family=Lato:wght@300&family=Neuton&family=Oswald&family=Roboto:wght@300;400&display=swap');
+
 /*Set global properties*/
 * {
     box-sizing: border-box;
@@ -7,7 +7,7 @@
 }
 /* Body properties, with max-width to limit the size of the game */
 body {
-    font-family: 'Arial', serif;
+    font-family: 'Arial';
     max-width: 800px;
     margin: 10% auto;
     border: solid;
@@ -40,7 +40,6 @@ body {
     width: 40px;
     padding: 5%;
 }
-
 
 /* Headings */
 h1 {
@@ -153,7 +152,7 @@ h2 {
 #start-over.hide {
     display: none;
 }
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 700px) {
     body {
         margin: 0 auto;
     }
