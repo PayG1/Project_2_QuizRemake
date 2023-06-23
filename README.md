@@ -19,7 +19,7 @@ This Animal Quiz objective was to build an interactive front-end site using HTML
 
 -In the score area, there are three life points. If the user chooses the wrong answer, one of the life points will turn into an X icon  If a user gets three wrong answers, there is a timeout so the user has a chace to see the correct answer before the Game Over screen is displayed.
 
-    ![X icon](assets/images/readme_images/lives.png)
+![X icon](assets/images/readme_images/lives.png)
 
 #### Experience
  At the end of the game, users should feel that they want to play again. The are 10 questions in each session so the user can have different questions everytime. These questions are chosen from a pool of 30
