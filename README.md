@@ -4,7 +4,6 @@
 This Animal Quiz objective was to build an interactive front-end site using HTML, CSS and Javascript, that allows users to interact with the site. The purpose of this quiz is to test the users knowledge about animals
 
 ## Features
-
 #### Instructions
 ![Instructions](assets/images/readme_images/instructions.png)
 - Shows the user brief instructions to play the game.
@@ -69,7 +68,7 @@ To develop the quiz, I created a repository in GitHub, using a Code Institute Te
 - 'git push', this sends all the commits in the queue to the GitHub repository.
 
 ### Deployment
-
+ Deployed app link: https://payg1.github.io/Project_2_QuizRemake/
 To create a public link for the game, I took the following steps in GitHub:
 - Navigate to settings on the top, horizontal menu bar.
 - Click on pages from the left-hand, vertical menu bar.
