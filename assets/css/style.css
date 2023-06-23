@@ -153,7 +153,7 @@ h2 {
     display: none;
 }
 @media only screen and (max-width:600px) {
-    *, body {
+    body, .heading, .score-area, .score-area, .container {
         margin: 0 auto;
     }
 }
